@@ -15,7 +15,7 @@ A lightweight, privacy-focused Flutter application designed to help users monito
 * **Design:** Material 3
 
 ## 📸 Screenshots
-*(Add your app screenshots here later!)*
+*(App screenshots)*
 
 ## 🏁 Getting Started
 1. Clone the repo: `git clone https://github.com/Vivekm2208/Flutter_Expense_TrackingApp.git`
