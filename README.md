@@ -1,16 +1,23 @@
-# my_own_app
+# 📱 PennyWise: Expense Tracker
 
-A new Flutter project.
+A lightweight, privacy-focused Flutter application designed to help users monitor their spending habits. This app leverages local persistence to ensure all data stays securely on your device.
 
-## Getting Started
+## 🚀 Key Features
+* **Local Persistence:** Uses `shared_preferences` for fast, offline data storage.
+* **Smart Filtering:** View spending habits with specialized filters:
+    * **Weekly View:** Track daily patterns for the current week.
+    * **Monthly View:** Comprehensive overview of monthly expenditures.
+* **Clean UI:** Categorized spending with visual summaries.
 
-This project is a starting point for a Flutter application.
+## 🛠️ Tech Stack
+* **Framework:** Flutter (Dart)
+* **Storage:** Shared Preferences
+* **Design:** Material 3
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 Screenshots
+*(Add your app screenshots here later!)*
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🏁 Getting Started
+1. Clone the repo: `git clone https://github.com/Vivekm2208/Flutter_Expense_TrackingApp.git`
+2. Install dependencies: `flutter pub get`
+3. Run the app: `flutter run`
